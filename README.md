@@ -1,9 +1,10 @@
+
+![Happy Fight GIF by POKÉMON Detective Pikachu](https://github.com/user-attachments/assets/d36112ac-c26b-4d69-b8ff-fee6aac93245)
+
 # Hi, I'm Ellen 👋  
 **Creative Developer in Progress | Designer | Author**
 
 Author → Designer → Developer  
-
-![Happy Fight GIF by POKÉMON Detective Pikachu](https://github.com/user-attachments/assets/b17bebb3-bad6-4a70-b8ce-b20e67bfe276)
 
 
 I’m a creative professional transitioning into web development through the  
