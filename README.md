@@ -1,16 +1,17 @@
-
-![Happy Fight GIF by POKÉMON Detective Pikachu](https://github.com/user-attachments/assets/d36112ac-c26b-4d69-b8ff-fee6aac93245)
-
 # Hi, I'm Ellen 👋  
-**Creative Developer in Progress | Designer | Author**
+
+**Author | Creative Developer in Progress | Designer**
+
+![Baby Animals Flirt GIF by Justin](https://github.com/user-attachments/assets/f23eb45c-7216-4794-b810-860ac2705030)
+
 
 Author → Designer → Developer  
 
 
-I’m a creative professional transitioning into web development through the  
-**Mobile Web Developer (AI) program at Eastern College (Canada).**
+I’m a creative professional currently upscaling my skills through the  
+**'Mobile Web Developer Using AI' program at Eastern College (Canada).**
 
-By day: learning code, building interfaces, solving problems.  
+By day: learning code, building interfaces, solving problems  
 By night: writing thrillers, designing journals, and plotting cat-themed empires 🐾  
 
 ---
@@ -41,16 +42,16 @@ I believe:
 - good UX is emotional clarity  
 - good code is invisible craft  
 
-The best interfaces are *felt*, not noticed.
+The best interfaces aren't just noticed, they're *felt*.
 
 ---
 
 ## 🐾 Bonus Lore
 - Canadian 🇨🇦
 - Cat supervisor: Tucker 🐈‍⬛
-- Writes Nova-Scotia-set thrillers
+- Writes small town thrillers
 - Collects DVDs *and* streams (balance is important 😄)
-- Names computers after cats
+- Loves all animals
 
 ---
 
@@ -59,7 +60,8 @@ Inspired by character-driven storytelling and clever dynamics:
 
 - Dean Koontz novels  
 - Alexa Donne  
-- *White Collar*  
+- *White Collar*
+- *Bones*  
 - *Dark Angel* (yes — including the game)
 
 Because great characters make great worlds…  
@@ -84,3 +86,6 @@ and great worlds inspire great interfaces.
 ---
 
 ⭐ Thanks for visiting my corner of GitHub
+
+![Happy Fight GIF by POKÉMON Detective Pikachu](https://github.com/user-attachments/assets/e076791c-fdb2-4e0d-9b83-09f9c830b068)
+
